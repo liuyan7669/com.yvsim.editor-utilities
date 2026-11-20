@@ -1,0 +1,7 @@
+{
+  "name": "Yvsim.EditorUtilities.Samples.Editor",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

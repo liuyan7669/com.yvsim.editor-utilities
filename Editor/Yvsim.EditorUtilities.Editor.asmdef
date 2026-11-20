@@ -1,0 +1,11 @@
+{
+  "name": "Yvsim.EditorUtilities.Editor",
+  "rootNamespace": "Yvsim.EditorUtilities.Editor",
+  "references": [
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
